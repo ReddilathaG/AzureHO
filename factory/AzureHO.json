@@ -1,0 +1,9 @@
+{
+	"name": "AzureHO",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "51725e9e-af2c-4d13-bb3f-568e05746b87",
+		"tenantId": "ad07b46b-952d-4e86-acd7-c530be3b965a"
+	}
+}
